@@ -2,16 +2,6 @@
 
  Anton-Color adalah modul Python sederhana untuk memberikan warna pada teks di terminal menggunakan ANSI escape codes. Modul ini memungkinkan pengguna untuk menampilkan teks dalam berbagai warna dan latar belakang yang berbeda.
 
-# Contoh Warna
-
-<span style="color: red;">Merah</span>  
-<span style="color: green;">Hijau</span>  
-<span style="color: blue;">Biru</span>  
-<span style="color: orange;">Jingga</span>  
-<span style="color: purple;">Ungu</span>  
-<span style="color: yellow;">Kuning</span>  
-<span style="color: pink;">Merah Muda</span>
-
 ## Instalasi
 
 Untuk menginstal modul ini, kamu bisa menggunakan `pip`:
